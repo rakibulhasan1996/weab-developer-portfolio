@@ -99,3 +99,24 @@ font-size: 18px;
 font-weight: 400;
 
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-ingo-container{
+    display:flex;
+    justify-content:space-around;
+}
+.about-info{
+    text-align:center;
+}
+/* what is do secsation  */
+.what-i-do{
+olor:  #757575;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.what-i-do-contain{
+    padding: 30px 150px ;
+}
