@@ -134,3 +134,18 @@ font-weight: 400;
 .skil-text{
     color:#757575;
 }
+/* resumi section style */
+.resumi-colom-title{
+    color:#474747; 
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+.resumi-container{
+    display: flex;gap: 70px;
+
+}
+.download-cv{
+    text-align: center;
+    margin-top:50px;
+}
