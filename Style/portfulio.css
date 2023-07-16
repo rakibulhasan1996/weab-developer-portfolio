@@ -149,3 +149,9 @@ font-weight: 400;
     text-align: center;
     margin-top:50px;
 }
+/* footer section  */
+footer{
+    display: flex;
+    padding: 130px 200px;
+    background:#FFF8F3; ;
+}
