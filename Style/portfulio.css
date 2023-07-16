@@ -152,6 +152,28 @@ font-weight: 400;
 /* footer section  */
 footer{
     display: flex;
+    gap: 100px;
     padding: 130px 200px;
-    background:#FFF8F3; ;
+    background:#FFF8F3;
+    margin-top: 113px;
+}
+.footer-colom{
+    width: 50%;
+}
+.contruct{
+    width: 100%;
+}
+.contruct input[type="text"], .contruct input[type="email"], textarea {
+    background:white ;
+    display:block;
+    margin-bottom: 24px;
+    padding: 18px 25px;
+    border-radius: 5px;
+    color:#757575;
+    border: 0;
+    width: 100%;
+    
+}
+.footer-colom a{
+    margin-right: 25px;
 }
